@@ -4,8 +4,8 @@ const data = [
         title: "Portfolio Website",
         info: "A personal portfolio website to showcase my projects and skills.",
         technologies: ["HTML", "CSS", "JavaScript","React Js", "Tailwind CSS"],
-        github: null,
-        live: null,
+        github: "https://github.com/malinarendra/Personal-Portfolio-Website",
+        live: "https://personal-portfolio-website-taupe.vercel.app/",
         startDate: "July 2024",
         endDate: "July 2024"
     },
