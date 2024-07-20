@@ -4,7 +4,7 @@ import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 
 const Home = () => {
     return (
-        <section id='home' className='h-custom-screen-lg md:h-custom-screen-md flex justify-between items-center bg-red-700'>
+        <section id='home' className='h-custom-screen-lg md:h-custom-screen-md flex justify-between items-center'>
             <div className='*:my-4 flex flex-col'>
                 <p className='text-xl font-medium text-gray-700 dark:text-white bottom'>Looking for a developer!</p>
                 <h1 className='font-semibold text-5xl sm:text-4xl text-light-theme bottom'>Hi, I'm Narendra</h1>
