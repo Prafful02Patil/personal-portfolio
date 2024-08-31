@@ -4,7 +4,7 @@ const data = [
         title: "Portfolio Website",
         info: "A personal portfolio website to showcase my projects and skills.",
         technologies: ["HTML", "CSS", "JavaScript","React Js", "Tailwind CSS"],
-        github: "https://github.com/malinarendra/Personal-Portfolio-Website",
+        github: "https://github.com/Prafful02Patil/Personal-Portfolio",
         live: null,
         startDate: "July 2024",
         endDate: "July 2024"
@@ -26,7 +26,7 @@ const data = [
         title: "Dictionary App",
         info: "A dictionary application that provides definitions of words.",
         technologies: ["HTML", "CSS", "JavaScript","React Js", "API"],
-        github: "https://github.com/malinarendra/dictionary-app",
+        github: null,
         live: "https://dictionary-app-five-mu.vercel.app",
         startDate: "September 2023",
         endDate: "October 2023"
